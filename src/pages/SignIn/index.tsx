@@ -12,10 +12,8 @@ const SignIn: React.FC = () => (
 
       <form>
         <h1>Faça seu logon</h1>
-
         <input placeholder="E-mail" />
         <input type="password" placeholder="Senha" />
-
         <button type="submit">Entrar</button>
         <a href="forgot">Esqueci a senha</a>
       </form>
